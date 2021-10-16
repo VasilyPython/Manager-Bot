@@ -1,3 +1,7 @@
+#IF U USE REPLIT SEARCH UP HOW TO MAKE ENVS ON YT SAME THING WITH VISUAL STUDIO!
+
+
+
 ##commands
 
 1. $league - to get the league names.
@@ -11,5 +15,8 @@
 
 1. assigning role, when the member joins.
 2. check the roles and divide as per.
+
+#Recommendations
+I recommend using replit to import these files or visual studio.
 
 #Made by Vas#0003
